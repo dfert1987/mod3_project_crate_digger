@@ -1,0 +1,2 @@
+class FamousArtistsController < ApplicationController
+end
